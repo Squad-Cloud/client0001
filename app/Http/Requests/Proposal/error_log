@@ -1,0 +1,10 @@
+[30-Sep-2022 23:32:10 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Proposal/StoreRequest.php on line 7
+[30-Sep-2022 23:32:11 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Proposal/StoreRequest.php on line 7
+[01-Oct-2022 02:03:56 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Proposal/StoreRequest.php on line 7
+[01-Oct-2022 02:03:57 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Proposal/StoreRequest.php on line 7
+[01-Oct-2022 04:29:08 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Proposal/StoreRequest.php on line 7
+[01-Oct-2022 04:29:09 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Proposal/StoreRequest.php on line 7
+[01-Oct-2022 06:11:10 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Proposal/StoreRequest.php on line 7
+[01-Oct-2022 06:11:11 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Proposal/StoreRequest.php on line 7
+[02-Oct-2022 10:37:47 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Proposal/StoreRequest.php on line 7
+[02-Oct-2022 10:37:48 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Proposal/StoreRequest.php on line 7

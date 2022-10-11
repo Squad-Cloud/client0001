@@ -1,0 +1,20 @@
+[30-Sep-2022 23:34:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/estimates/index.blade.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/estimates/index.blade.php on line 222
+[01-Oct-2022 02:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/estimates/index.blade.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/estimates/index.blade.php on line 222
+[01-Oct-2022 04:31:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/estimates/index.blade.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/estimates/index.blade.php on line 222
+[01-Oct-2022 06:13:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/estimates/index.blade.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/estimates/index.blade.php on line 222
+[02-Oct-2022 10:40:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/estimates/index.blade.php:222
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/estimates/index.blade.php on line 222

@@ -1,0 +1,40 @@
+[30-Sep-2022 23:33:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/gdpr/consent.blade.php:244
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/gdpr/consent.blade.php on line 244
+[30-Sep-2022 23:33:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/gdpr/right_to_erasure.blade.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/gdpr/right_to_erasure.blade.php on line 178
+[01-Oct-2022 02:05:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/gdpr/consent.blade.php:244
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/gdpr/consent.blade.php on line 244
+[01-Oct-2022 02:05:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/gdpr/right_to_erasure.blade.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/gdpr/right_to_erasure.blade.php on line 178
+[01-Oct-2022 04:30:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/gdpr/consent.blade.php:244
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/gdpr/consent.blade.php on line 244
+[01-Oct-2022 04:30:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/gdpr/right_to_erasure.blade.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/gdpr/right_to_erasure.blade.php on line 178
+[01-Oct-2022 06:12:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/gdpr/consent.blade.php:244
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/gdpr/consent.blade.php on line 244
+[01-Oct-2022 06:12:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/gdpr/right_to_erasure.blade.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/gdpr/right_to_erasure.blade.php on line 178
+[02-Oct-2022 10:39:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/gdpr/consent.blade.php:244
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/gdpr/consent.blade.php on line 244
+[02-Oct-2022 10:39:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/gdpr/right_to_erasure.blade.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/gdpr/right_to_erasure.blade.php on line 178

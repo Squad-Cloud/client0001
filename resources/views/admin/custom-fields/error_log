@@ -1,0 +1,20 @@
+[30-Sep-2022 23:33:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/custom-fields/index.blade.php:123
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/custom-fields/index.blade.php on line 123
+[01-Oct-2022 02:05:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/custom-fields/index.blade.php:123
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/custom-fields/index.blade.php on line 123
+[01-Oct-2022 04:30:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/custom-fields/index.blade.php:123
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/custom-fields/index.blade.php on line 123
+[01-Oct-2022 06:12:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/custom-fields/index.blade.php:123
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/custom-fields/index.blade.php on line 123
+[02-Oct-2022 10:39:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/custom-fields/index.blade.php:123
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/custom-fields/index.blade.php on line 123

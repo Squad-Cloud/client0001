@@ -1,0 +1,10 @@
+[30-Sep-2022 23:32:07 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/ProjectSetting/UpdateProjectSetting.php on line 9
+[30-Sep-2022 23:32:08 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/ProjectSetting/UpdateProjectSetting.php on line 9
+[01-Oct-2022 02:03:53 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/ProjectSetting/UpdateProjectSetting.php on line 9
+[01-Oct-2022 02:03:54 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/ProjectSetting/UpdateProjectSetting.php on line 9
+[01-Oct-2022 04:29:04 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/ProjectSetting/UpdateProjectSetting.php on line 9
+[01-Oct-2022 04:29:05 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/ProjectSetting/UpdateProjectSetting.php on line 9
+[01-Oct-2022 06:11:07 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/ProjectSetting/UpdateProjectSetting.php on line 9
+[01-Oct-2022 06:11:08 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/ProjectSetting/UpdateProjectSetting.php on line 9
+[02-Oct-2022 10:37:43 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/ProjectSetting/UpdateProjectSetting.php on line 9
+[02-Oct-2022 10:37:44 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/ProjectSetting/UpdateProjectSetting.php on line 9

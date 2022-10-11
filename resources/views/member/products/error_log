@@ -1,0 +1,20 @@
+[30-Sep-2022 23:34:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/products/index.blade.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/products/index.blade.php on line 80
+[01-Oct-2022 02:06:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/products/index.blade.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/products/index.blade.php on line 80
+[01-Oct-2022 04:31:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/products/index.blade.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/products/index.blade.php on line 80
+[01-Oct-2022 06:13:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/products/index.blade.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/products/index.blade.php on line 80
+[02-Oct-2022 10:40:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/products/index.blade.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/products/index.blade.php on line 80

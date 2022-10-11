@@ -1,0 +1,20 @@
+[30-Sep-2022 23:34:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/payments/index.blade.php:242
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/payments/index.blade.php on line 242
+[01-Oct-2022 02:06:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/payments/index.blade.php:242
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/payments/index.blade.php on line 242
+[01-Oct-2022 04:31:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/payments/index.blade.php:242
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/payments/index.blade.php on line 242
+[01-Oct-2022 06:13:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/payments/index.blade.php:242
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/payments/index.blade.php on line 242
+[02-Oct-2022 10:40:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/payments/index.blade.php:242
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/payments/index.blade.php on line 242

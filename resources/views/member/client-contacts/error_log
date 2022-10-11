@@ -1,0 +1,20 @@
+[30-Sep-2022 23:34:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/client-contacts/show.blade.php:191
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/client-contacts/show.blade.php on line 191
+[01-Oct-2022 02:06:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/client-contacts/show.blade.php:191
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/client-contacts/show.blade.php on line 191
+[01-Oct-2022 04:31:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/client-contacts/show.blade.php:191
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/client-contacts/show.blade.php on line 191
+[01-Oct-2022 06:13:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/client-contacts/show.blade.php:191
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/client-contacts/show.blade.php on line 191
+[02-Oct-2022 10:40:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/client-contacts/show.blade.php:191
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/client-contacts/show.blade.php on line 191

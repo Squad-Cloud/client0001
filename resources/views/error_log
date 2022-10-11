@@ -1,0 +1,40 @@
+[30-Sep-2022 23:17:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/invoice.blade.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/invoice.blade.php on line 217
+[30-Sep-2022 23:17:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/paywithpaypal.blade.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/paywithpaypal.blade.php on line 13
+[01-Oct-2022 01:47:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/invoice.blade.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/invoice.blade.php on line 217
+[01-Oct-2022 01:47:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/paywithpaypal.blade.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/paywithpaypal.blade.php on line 13
+[01-Oct-2022 04:13:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/invoice.blade.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/invoice.blade.php on line 217
+[01-Oct-2022 04:13:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/paywithpaypal.blade.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/paywithpaypal.blade.php on line 13
+[01-Oct-2022 05:54:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/invoice.blade.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/invoice.blade.php on line 217
+[01-Oct-2022 05:54:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/paywithpaypal.blade.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/paywithpaypal.blade.php on line 13
+[02-Oct-2022 10:19:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/invoice.blade.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/invoice.blade.php on line 217
+[02-Oct-2022 10:19:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/paywithpaypal.blade.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/paywithpaypal.blade.php on line 13

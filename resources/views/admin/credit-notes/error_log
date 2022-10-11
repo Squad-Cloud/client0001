@@ -1,0 +1,20 @@
+[30-Sep-2022 23:33:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/credit-notes/show.blade.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/credit-notes/show.blade.php on line 84
+[01-Oct-2022 02:05:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/credit-notes/show.blade.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/credit-notes/show.blade.php on line 84
+[01-Oct-2022 04:30:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/credit-notes/show.blade.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/credit-notes/show.blade.php on line 84
+[01-Oct-2022 06:12:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/credit-notes/show.blade.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/credit-notes/show.blade.php on line 84
+[02-Oct-2022 10:39:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/credit-notes/show.blade.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/credit-notes/show.blade.php on line 84

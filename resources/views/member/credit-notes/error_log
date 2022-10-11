@@ -1,0 +1,40 @@
+[30-Sep-2022 23:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/credit-notes/index.blade.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/credit-notes/index.blade.php on line 286
+[30-Sep-2022 23:34:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/member/credit-notes/show.blade.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/credit-notes/show.blade.php on line 72
+[01-Oct-2022 02:06:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/credit-notes/index.blade.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/credit-notes/index.blade.php on line 286
+[01-Oct-2022 02:06:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/member/credit-notes/show.blade.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/credit-notes/show.blade.php on line 72
+[01-Oct-2022 04:31:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/credit-notes/index.blade.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/credit-notes/index.blade.php on line 286
+[01-Oct-2022 04:31:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/member/credit-notes/show.blade.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/credit-notes/show.blade.php on line 72
+[01-Oct-2022 06:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/credit-notes/index.blade.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/credit-notes/index.blade.php on line 286
+[01-Oct-2022 06:13:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/member/credit-notes/show.blade.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/credit-notes/show.blade.php on line 72
+[02-Oct-2022 10:40:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/credit-notes/index.blade.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/credit-notes/index.blade.php on line 286
+[02-Oct-2022 10:40:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/member/credit-notes/show.blade.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/credit-notes/show.blade.php on line 72

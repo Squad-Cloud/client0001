@@ -1,0 +1,10 @@
+[30-Sep-2022 23:31:16 UTC] PHP Fatal error:  Class 'Froiden\LaravelInstaller\Request\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/GdprLead/UpdateRequest.php on line 8
+[30-Sep-2022 23:31:17 UTC] PHP Fatal error:  Class 'Froiden\LaravelInstaller\Request\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/GdprLead/UpdateRequest.php on line 8
+[01-Oct-2022 02:02:59 UTC] PHP Fatal error:  Class 'Froiden\LaravelInstaller\Request\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/GdprLead/UpdateRequest.php on line 8
+[01-Oct-2022 02:03:01 UTC] PHP Fatal error:  Class 'Froiden\LaravelInstaller\Request\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/GdprLead/UpdateRequest.php on line 8
+[01-Oct-2022 04:28:05 UTC] PHP Fatal error:  Class 'Froiden\LaravelInstaller\Request\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/GdprLead/UpdateRequest.php on line 8
+[01-Oct-2022 04:28:06 UTC] PHP Fatal error:  Class 'Froiden\LaravelInstaller\Request\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/GdprLead/UpdateRequest.php on line 8
+[01-Oct-2022 06:10:14 UTC] PHP Fatal error:  Class 'Froiden\LaravelInstaller\Request\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/GdprLead/UpdateRequest.php on line 8
+[01-Oct-2022 06:10:15 UTC] PHP Fatal error:  Class 'Froiden\LaravelInstaller\Request\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/GdprLead/UpdateRequest.php on line 8
+[02-Oct-2022 10:36:46 UTC] PHP Fatal error:  Class 'Froiden\LaravelInstaller\Request\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/GdprLead/UpdateRequest.php on line 8
+[02-Oct-2022 10:36:47 UTC] PHP Fatal error:  Class 'Froiden\LaravelInstaller\Request\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/GdprLead/UpdateRequest.php on line 8

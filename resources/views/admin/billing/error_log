@@ -1,0 +1,40 @@
+[30-Sep-2022 23:33:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/billing/index.blade.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/billing/index.blade.php on line 39
+[30-Sep-2022 23:33:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/billing/package.blade.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/billing/package.blade.php on line 102
+[01-Oct-2022 02:05:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/billing/index.blade.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/billing/index.blade.php on line 39
+[01-Oct-2022 02:05:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/billing/package.blade.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/billing/package.blade.php on line 102
+[01-Oct-2022 04:30:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/billing/index.blade.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/billing/index.blade.php on line 39
+[01-Oct-2022 04:30:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/billing/package.blade.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/billing/package.blade.php on line 102
+[01-Oct-2022 06:12:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/billing/index.blade.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/billing/index.blade.php on line 39
+[01-Oct-2022 06:12:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/billing/package.blade.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/billing/package.blade.php on line 102
+[02-Oct-2022 10:39:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/billing/index.blade.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/billing/index.blade.php on line 39
+[02-Oct-2022 10:39:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/jurislpm/public_html/resources/views/admin/billing/package.blade.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/billing/package.blade.php on line 102

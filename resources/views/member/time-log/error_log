@@ -1,0 +1,40 @@
+[30-Sep-2022 23:34:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/time-log/index.blade.php:387
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/time-log/index.blade.php on line 387
+[30-Sep-2022 23:34:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/time-log/show-log.blade.php:228
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/time-log/show-log.blade.php on line 228
+[01-Oct-2022 02:06:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/time-log/index.blade.php:387
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/time-log/index.blade.php on line 387
+[01-Oct-2022 02:06:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/time-log/show-log.blade.php:228
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/time-log/show-log.blade.php on line 228
+[01-Oct-2022 04:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/time-log/index.blade.php:387
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/time-log/index.blade.php on line 387
+[01-Oct-2022 04:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/time-log/show-log.blade.php:228
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/time-log/show-log.blade.php on line 228
+[01-Oct-2022 06:13:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/time-log/index.blade.php:387
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/time-log/index.blade.php on line 387
+[01-Oct-2022 06:13:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/time-log/show-log.blade.php:228
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/time-log/show-log.blade.php on line 228
+[02-Oct-2022 10:41:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/time-log/index.blade.php:387
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/time-log/index.blade.php on line 387
+[02-Oct-2022 10:41:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/member/time-log/show-log.blade.php:228
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/member/time-log/show-log.blade.php on line 228

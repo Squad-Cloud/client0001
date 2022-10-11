@@ -1,0 +1,10 @@
+[30-Sep-2022 23:31:42 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Message/ClientChatStore.php on line 8
+[30-Sep-2022 23:31:43 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Message/ClientChatStore.php on line 8
+[01-Oct-2022 02:03:27 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Message/ClientChatStore.php on line 8
+[01-Oct-2022 02:03:28 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Message/ClientChatStore.php on line 8
+[01-Oct-2022 04:28:35 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Message/ClientChatStore.php on line 8
+[01-Oct-2022 04:28:36 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Message/ClientChatStore.php on line 8
+[01-Oct-2022 06:10:41 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Message/ClientChatStore.php on line 8
+[01-Oct-2022 06:10:42 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Message/ClientChatStore.php on line 8
+[02-Oct-2022 10:37:16 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Message/ClientChatStore.php on line 8
+[02-Oct-2022 10:37:17 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Message/ClientChatStore.php on line 8

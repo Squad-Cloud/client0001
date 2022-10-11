@@ -1,0 +1,20 @@
+[30-Sep-2022 23:35:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/super-admin/offline-plan-change/index.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/super-admin/offline-plan-change/index.blade.php on line 71
+[01-Oct-2022 02:07:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/super-admin/offline-plan-change/index.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/super-admin/offline-plan-change/index.blade.php on line 71
+[01-Oct-2022 04:31:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/super-admin/offline-plan-change/index.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/super-admin/offline-plan-change/index.blade.php on line 71
+[01-Oct-2022 06:13:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/super-admin/offline-plan-change/index.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/super-admin/offline-plan-change/index.blade.php on line 71
+[02-Oct-2022 10:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/super-admin/offline-plan-change/index.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/super-admin/offline-plan-change/index.blade.php on line 71

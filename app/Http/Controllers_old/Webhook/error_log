@@ -1,0 +1,10 @@
+[30-Sep-2022 23:30:27 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/jurislpm/public_html/app/Http/Controllers/Webhook/AuthorizeWebhookController.php on line 13
+[30-Sep-2022 23:30:28 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/jurislpm/public_html/app/Http/Controllers/Webhook/AuthorizeWebhookController.php on line 13
+[01-Oct-2022 02:02:08 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/jurislpm/public_html/app/Http/Controllers/Webhook/AuthorizeWebhookController.php on line 13
+[01-Oct-2022 02:02:09 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/jurislpm/public_html/app/Http/Controllers/Webhook/AuthorizeWebhookController.php on line 13
+[01-Oct-2022 04:27:12 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/jurislpm/public_html/app/Http/Controllers/Webhook/AuthorizeWebhookController.php on line 13
+[01-Oct-2022 04:27:13 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/jurislpm/public_html/app/Http/Controllers/Webhook/AuthorizeWebhookController.php on line 13
+[01-Oct-2022 06:09:19 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/jurislpm/public_html/app/Http/Controllers/Webhook/AuthorizeWebhookController.php on line 13
+[01-Oct-2022 06:09:20 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/jurislpm/public_html/app/Http/Controllers/Webhook/AuthorizeWebhookController.php on line 13
+[02-Oct-2022 10:35:52 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/jurislpm/public_html/app/Http/Controllers/Webhook/AuthorizeWebhookController.php on line 13
+[02-Oct-2022 10:35:53 UTC] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/jurislpm/public_html/app/Http/Controllers/Webhook/AuthorizeWebhookController.php on line 13

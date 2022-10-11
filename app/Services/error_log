@@ -1,0 +1,12 @@
+[30-Sep-2022 23:05:00 UTC] PHP Fatal error:  Trait 'App\Traits\GoogleOAuth' not found in /home/jurislpm/public_html/app/Services/Google.php on line 12
+[30-Sep-2022 23:05:01 UTC] PHP Fatal error:  Trait 'App\Traits\GoogleOAuth' not found in /home/jurislpm/public_html/app/Services/Google.php on line 12
+[01-Oct-2022 01:35:08 UTC] PHP Fatal error:  Trait 'App\Traits\GoogleOAuth' not found in /home/jurislpm/public_html/app/Services/Google.php on line 12
+[01-Oct-2022 01:35:09 UTC] PHP Fatal error:  Trait 'App\Traits\GoogleOAuth' not found in /home/jurislpm/public_html/app/Services/Google.php on line 12
+[01-Oct-2022 04:01:18 UTC] PHP Fatal error:  Trait 'App\Traits\GoogleOAuth' not found in /home/jurislpm/public_html/app/Services/Google.php on line 12
+[01-Oct-2022 04:01:19 UTC] PHP Fatal error:  Trait 'App\Traits\GoogleOAuth' not found in /home/jurislpm/public_html/app/Services/Google.php on line 12
+[01-Oct-2022 05:41:33 UTC] PHP Fatal error:  Trait 'App\Traits\GoogleOAuth' not found in /home/jurislpm/public_html/app/Services/Google.php on line 12
+[01-Oct-2022 05:41:34 UTC] PHP Fatal error:  Trait 'App\Traits\GoogleOAuth' not found in /home/jurislpm/public_html/app/Services/Google.php on line 12
+[01-Oct-2022 21:24:05 UTC] PHP Fatal error:  Trait 'App\Traits\GoogleOAuth' not found in /home/jurislpm/public_html/app/Services/Google.php on line 12
+[02-Oct-2022 04:39:20 UTC] PHP Fatal error:  Trait 'App\Traits\GoogleOAuth' not found in /home/jurislpm/public_html/app/Services/Google.php on line 12
+[02-Oct-2022 10:06:57 UTC] PHP Fatal error:  Trait 'App\Traits\GoogleOAuth' not found in /home/jurislpm/public_html/app/Services/Google.php on line 12
+[02-Oct-2022 10:06:58 UTC] PHP Fatal error:  Trait 'App\Traits\GoogleOAuth' not found in /home/jurislpm/public_html/app/Services/Google.php on line 12

@@ -1,0 +1,20 @@
+[30-Sep-2022 23:33:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/projects/archive.blade.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/projects/archive.blade.php on line 253
+[01-Oct-2022 02:05:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/projects/archive.blade.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/projects/archive.blade.php on line 253
+[01-Oct-2022 04:30:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/projects/archive.blade.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/projects/archive.blade.php on line 253
+[01-Oct-2022 06:12:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/projects/archive.blade.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/projects/archive.blade.php on line 253
+[02-Oct-2022 10:39:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/jurislpm/public_html/resources/views/admin/projects/archive.blade.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/jurislpm/public_html/resources/views/admin/projects/archive.blade.php on line 253

@@ -1,0 +1,10 @@
+[30-Sep-2022 23:32:37 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Tax/StoreTax.php on line 8
+[30-Sep-2022 23:32:38 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Tax/StoreTax.php on line 8
+[01-Oct-2022 02:04:24 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Tax/StoreTax.php on line 8
+[01-Oct-2022 02:04:26 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Tax/StoreTax.php on line 8
+[01-Oct-2022 04:29:36 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Tax/StoreTax.php on line 8
+[01-Oct-2022 04:29:37 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Tax/StoreTax.php on line 8
+[01-Oct-2022 06:11:38 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Tax/StoreTax.php on line 8
+[01-Oct-2022 06:11:39 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Tax/StoreTax.php on line 8
+[02-Oct-2022 10:38:16 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Tax/StoreTax.php on line 8
+[02-Oct-2022 10:38:18 UTC] PHP Fatal error:  Class 'App\Http\Requests\CoreRequest' not found in /home/jurislpm/public_html/app/Http/Requests/Tax/StoreTax.php on line 8

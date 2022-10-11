@@ -1,0 +1,13 @@
+[30-Sep-2022 23:01:51 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/jurislpm/public_html/tests/TestCase.php on line 7
+[30-Sep-2022 23:01:52 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/jurislpm/public_html/tests/TestCase.php on line 7
+[01-Oct-2022 01:31:53 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/jurislpm/public_html/tests/TestCase.php on line 7
+[01-Oct-2022 01:31:54 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/jurislpm/public_html/tests/TestCase.php on line 7
+[01-Oct-2022 03:58:14 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/jurislpm/public_html/tests/TestCase.php on line 7
+[01-Oct-2022 03:58:15 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/jurislpm/public_html/tests/TestCase.php on line 7
+[01-Oct-2022 05:38:11 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/jurislpm/public_html/tests/TestCase.php on line 7
+[01-Oct-2022 05:38:13 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/jurislpm/public_html/tests/TestCase.php on line 7
+[01-Oct-2022 17:49:40 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/jurislpm/public_html/tests/TestCase.php on line 7
+[02-Oct-2022 03:57:22 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/jurislpm/public_html/tests/TestCase.php on line 7
+[02-Oct-2022 09:33:28 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/jurislpm/public_html/tests/TestCase.php on line 7
+[02-Oct-2022 10:03:36 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/jurislpm/public_html/tests/TestCase.php on line 7
+[02-Oct-2022 10:03:37 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/jurislpm/public_html/tests/TestCase.php on line 7

@@ -1,0 +1,10 @@
+[30-Sep-2022 23:32:21 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/jurislpm/public_html/app/Http/Requests/StripePayment/PaymentRequest.php on line 7
+[30-Sep-2022 23:32:23 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/jurislpm/public_html/app/Http/Requests/StripePayment/PaymentRequest.php on line 7
+[01-Oct-2022 02:04:08 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/jurislpm/public_html/app/Http/Requests/StripePayment/PaymentRequest.php on line 7
+[01-Oct-2022 02:04:09 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/jurislpm/public_html/app/Http/Requests/StripePayment/PaymentRequest.php on line 7
+[01-Oct-2022 04:29:19 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/jurislpm/public_html/app/Http/Requests/StripePayment/PaymentRequest.php on line 7
+[01-Oct-2022 04:29:20 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/jurislpm/public_html/app/Http/Requests/StripePayment/PaymentRequest.php on line 7
+[01-Oct-2022 06:11:22 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/jurislpm/public_html/app/Http/Requests/StripePayment/PaymentRequest.php on line 7
+[01-Oct-2022 06:11:23 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/jurislpm/public_html/app/Http/Requests/StripePayment/PaymentRequest.php on line 7
+[02-Oct-2022 10:38:00 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/jurislpm/public_html/app/Http/Requests/StripePayment/PaymentRequest.php on line 7
+[02-Oct-2022 10:38:01 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/jurislpm/public_html/app/Http/Requests/StripePayment/PaymentRequest.php on line 7
